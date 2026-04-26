@@ -1,7 +1,7 @@
-.DS_Store/
+.DS_Store
 node_modules/
 dist/
 .venv/
 .claude/
 .py_cache__/
-.info/*
+Info/*
